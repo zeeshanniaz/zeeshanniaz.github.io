@@ -1,0 +1,149 @@
+body{
+	margin:0;
+	padding:0;
+	min-width: 1663px;
+	background-color:#FFE4C4;
+}
+#brtop{
+	width:100%;
+	height:80px;
+	margin:0 auto;
+	background-color:#008000;
+	border-bottom:2px solid #7CFC00;
+	color:white;
+}
+#brtop p {
+	margin-left:50%;
+	padding-top:65px;
+}
+#header{
+	width:100%;
+	height:130px;
+	background-color:#7CFC00;
+	clear:both;
+	background-image: url("images/navigation.jpg");
+  background:url("images/navigation.jpg");
+  background-size:100% 290px;
+}
+#headerimage{
+	float:center;
+	margin-left:25%;
+	
+}
+#navbar{
+	width:1160px;
+	height:50px;
+	background-color:green;
+	border-top:2px solid #FFE4C4 ;
+	clear:both;
+	margin:0 auto;
+	color:white;
+
+}
+#navbar{
+  background-image: url("images/navigation.jpg");
+  background:url("images/navigation.jpg");
+  background-size:1160px 290px;
+}
+#menu ul {
+	margin:0;
+	padding-top:6px;
+	line-height:2em;
+	
+	
+}
+#menu ul li {
+	list-style:none;
+	display:inline;
+	margin:30px;
+	width:80px;
+
+}
+#menu ul li a:link{
+	color:white;
+	margin:5px;
+	padding:5px;
+	text-decoration:none;
+	font-size:100%;
+	min-width:1200px;
+
+}
+#menu ul li a:hover{
+	color:#00FF7F;
+	margin:20px;
+	padding:10px;
+	text-decoration:none;
+	font-size:180%;
+}
+#menu ul li a:active{
+	color:#FF0000;
+	margin:5px;
+	padding:5px;
+	text-decoration:none;
+	font-size:215%;
+	background-color:#00FF7F;
+}
+#postbody{
+	width:1100px;
+
+	background-color:white;
+	color:white;
+	margin:0 auto;
+}
+#videotop{
+	width:1100px;
+	height:80px;
+}
+#mainfram{
+	float:center;
+	width:680px;
+	height:500px;
+	border:2px solid red;
+	margin-left:210px;
+}
+#videosbody{
+	float:center;
+	width:1100px;
+	height:700px;
+	border:2px solid red;
+	margin-top:100px;
+}
+#video{
+	float:center;
+	width:200px;
+	height:150px;
+	display:inline-block;
+	margin:10px;
+	margin-left:110px;
+	margin-top:10px;
+}
+#video iframe:active{
+	#mainfram
+}
+#sidebar1{
+	width:250px;
+	height:652px;
+	float:left;
+	background-color:#32CD32;
+	border-right:2px solid #00FF00;
+	clear:left;
+	margin-top:-52px;
+	color:white;
+}
+#sidebar2{
+	width:250px;
+	height:652px;
+	float:right;
+	background-color:#32CD32;
+	border-left:2px solid #00FF00;
+	clear:left;
+	margin-top:-52px;
+	color:white;
+}
+#footer{
+	width:100%;
+	height:70px;
+	margin:0 auto;
+	color:white;
+	background-color:#7CFC00;
+}
